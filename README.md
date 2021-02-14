@@ -8,8 +8,6 @@
   <img src="https://user-images.githubusercontent.com/56693466/107883117-020bac00-6efe-11eb-9e1e-91176e4773c0.png" width="50" alt="Php">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" alt="HTML5">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" alt="CSS3">
-  
- <img src="https://user-images.githubusercontent.com/56693466/107883208-a55cc100-6efe-11eb-9920-0a579e2eaff7.png" width="50" alt="Java">
  </p>
 
 
