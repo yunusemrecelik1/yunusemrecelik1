@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">Junior Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter-Swift-Node.js**
+- 🌱 I’m currently working with **Flutter-Swift-Node.js**
 
 - 📫 How to reach me **yemrecelikofficial@gmail.com**
 
